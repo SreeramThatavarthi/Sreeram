@@ -1,7 +1,5 @@
 # Hey There! <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px"></h2>
 
-#### They told that i can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
-
 ### Know Me 🙋🏻‍♂️
 
 You can call me **Sreeram**,
@@ -50,15 +48,6 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 ```
 I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
 ```
-
-### inDesign & Editing 🎨✂
-
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/figma.png" style="height:25px"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/vegas.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/xd.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/photoshop.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/illustrator.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/aftereffects.png"/>
 
 ```
 They find me attractive so do i 😉.
