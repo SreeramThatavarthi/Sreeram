@@ -22,7 +22,4 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 ### Profile Overview 👀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SreeramThatavarthi&show_icons=true)<br>
-```
-And at last some stats to impress my next 😍😉.
-```
 
