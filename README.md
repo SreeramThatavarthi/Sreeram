@@ -5,10 +5,6 @@
 You can call me **Sreeram**,
 I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https://www.gitam.edu/). 🎓,<br> **DSC Member** of [@DSCGitam](https://github.com/dsc-gitam)🤹🏻‍♂️ also a <br>**Full Stack Web Dev** ⚡
 
-_**git pull:**_ _The Art of Writing Clean Code_ 👌🏻<br>
-_**git commit:**_ _Internal DBMS Solution_ for my college 🤩<br>
-_**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
-
 ### Find Me Here 👇🏻
 
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/sreeram-thatavarthi/)
