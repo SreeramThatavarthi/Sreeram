@@ -66,7 +66,7 @@ They find me attractive so do i 😉.
 
 ### Profile Overview 👀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AsishRaju&show_icons=true)<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=SreeramThatavarthi&show_icons=true)<br>
 ```
 And at last some stats to impress my next 😍😉.
 ```
