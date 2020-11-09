@@ -19,29 +19,6 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 ---
 
-<details>
-<summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
-
-### inCoding 👨🏻‍💻
-
-<img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
-<img src="https://img.icons8.com/fluent/28/000000/console.png"/>
-<img src="https://img.icons8.com/color/28/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/code.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/postman..png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/mongodb.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/firebase.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/react.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/nodejs.png"/> 
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/javascript.png"/> 
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
-<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/arduino.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
-
-
 ### Profile Overview 👀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SreeramThatavarthi&show_icons=true)<br>
@@ -49,4 +26,3 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 And at last some stats to impress my next 😍😉.
 ```
 
-</details>
