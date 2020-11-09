@@ -17,7 +17,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ### Proud Maker of 😎
 
-[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)](https://github.com/AsishRaju/FirePad)
+[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=sirijewellers)](https://github.com/AsishRaju/FirePad)
 
 <h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
 
