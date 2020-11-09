@@ -19,7 +19,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 [![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=shoppingApp)](https://github.com/AsishRaju/FirePad)
 
-<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
+<h3 align="center"><strong> Dont Work hard ⭐. &nbsp;Work Smart</strong> </h3>
 
 ---
 
