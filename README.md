@@ -19,7 +19,7 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 ---
 
-<details close>
+<details>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
 
 ### inCoding 👨🏻‍💻
