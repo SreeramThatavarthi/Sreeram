@@ -11,7 +11,7 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 [![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/ram_thatavarthi/)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/sreeramt2019) <br>
 [![Gmail Badge](https://img.shields.io/badge/-sreeramt2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreeramt2019@gmail.com)](mailto:sreeramt2019@gmail.com)
 
-### Proud Maker of 😎
+### Proud Creator of 😎
 
 [![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=shoppingApp)](https://github.com/AsishRaju/FirePad)
 
@@ -41,13 +41,6 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
 
-```
-I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
-```
-
-```
-They find me attractive so do i 😉.
-```
 
 ### Profile Overview 👀
 
