@@ -13,7 +13,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ### Find Me Here 👇🏻
 
-[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/Sreeram Thatavarthi/)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/sreeram-thatavarthi/)
 [![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/ram_thatavarthi/)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/sreeramt2019) <br>
 [![Gmail Badge](https://img.shields.io/badge/-sreeramt2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreeramt2019@gmail.com)](mailto:sreeramt2019@gmail.com)
 
