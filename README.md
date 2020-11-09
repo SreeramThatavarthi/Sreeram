@@ -13,15 +13,13 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 ### Find Me Here 👇🏻
 
-[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/asish_io)
-[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/asishraju/)
-[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/asishio)
-[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/asish.io/)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/vashish888) <br>
-[![Gmail Badge](https://img.shields.io/badge/-vashish888@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vashish888@gmail.com)](mailto:vashish888@gmail.com)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/SreeramThatavarthi/)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/ram_thatavarthi/)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/vashish888) <br>
+[![Gmail Badge](https://img.shields.io/badge/-sreeramt2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreeramt2019@gmail.com)](mailto:sreeramt2019@gmail.com)
 
 ### Proud Maker of 😎
 
-[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=AsishRaju&repo=HotCorners)](https://github.com/AsishRaju/HotCorners)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsishRaju&repo=Firepad)](https://github.com/AsishRaju/FirePad)
+[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)](https://github.com/AsishRaju/FirePad)
 
 <h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
 
