@@ -13,7 +13,7 @@ I am 20 and a **Junior Year Computer Science Student** [@Gitam University](https
 
 ### Proud Creator of 😎
 
-[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=shoppingApp)](https://github.com/AsishRaju/FirePad)
+[![HotCorners Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=fleague)]( https://github.com/SreeramThatavarthi/fleague)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SreeramThatavarthi&repo=shoppingApp)](https://github.com/SreeramThatavarthi/shoppingApp)
 
 <h3 align="center"><strong> Don't Work hard ,&nbsp;Work Smart ⭐</strong> </h3>
 
